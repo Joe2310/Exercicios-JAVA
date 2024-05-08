@@ -1,4 +1,4 @@
-package joe.exercicios_java.primeiraSemana;
+package Tipos;
 
 public class TiposPrimitivos {
 

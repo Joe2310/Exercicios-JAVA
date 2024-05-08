@@ -1,5 +1,4 @@
-package joe.exercicios_java.primeiraSemana;
-
+package operadores;
 public class OperadoresAritmeticos{
 
     public void ApresentarMensagem() {
