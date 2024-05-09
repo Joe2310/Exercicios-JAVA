@@ -1,4 +1,4 @@
-package Tipos;
+package tipos;
 
 public class TiposPrimitivos {
 
