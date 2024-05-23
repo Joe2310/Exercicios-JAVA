@@ -1,0 +1,57 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        },
+        {
+            "type": "java",
+            "name": "FluxoDoWhile",
+            "request": "launch",
+            "mainClass": "FluxoDoWhile",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        },
+        {
+            "type": "java",
+            "name": "Fluxowhile",
+            "request": "launch",
+            "mainClass": "Fluxowhile",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaEmArrays",
+            "request": "launch",
+            "mainClass": "RepeticaEmArrays",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoFor",
+            "request": "launch",
+            "mainClass": "RepeticaoFor",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "segunda-semana-de-java_eb15dfba"
+        }
+    ]
+}
